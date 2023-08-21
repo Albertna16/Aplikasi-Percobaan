@@ -1,5 +1,7 @@
 void main(){
   print("Nama        : Muhammad Albert Nur Agathon");
   print("NPM         : 21081010020");
-  print("Universitas : UPN Veteran Jawa Timur");
+  print("Fakultas    : Fakultas Ilmu Komputer");
+  print("Progdi      : Informatika");
+  print("Angkatan    : 2021");
 }
