@@ -1,5 +1,6 @@
 void main(){
   print("Nama        : Muhammad Albert Nur Agathon");
-  print("NPM         : 21081010020");
-  print("Universitas : UPN Veteran Jawa Timur");
+  print("Asal Kota   : Kabupaten Mojokerto");
+  print("Gender      : Laki laki");
+  print("Gol Darah   : O");
 }
